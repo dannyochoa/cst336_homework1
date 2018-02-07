@@ -1,0 +1,138 @@
+body{
+    background:white;
+    margin:0;
+    margin-bottom: 0;
+}
+
+header{
+    background:#000080;
+    text-align: center;
+    color:white;
+    padding-top:10px;
+}
+
+h1{
+    font-family: 'Bree';
+    font-size: 2.5em;
+    margin-bottom: 0px;
+}
+
+nav{
+    padding-top: 20px;
+    background:#000080;
+    text-align:center;
+    padding-bottom: 20px;
+}
+
+nav a{
+    padding:20px;
+    font-size:1.5em;
+    color:white;
+    text-decoration: none;
+}
+
+nav a:hover{
+    color:#00ffff;
+    font-size:1.7em;
+    text-decoration: underline;
+}
+
+#standOut{
+    color:#00ffff;
+}
+
+#left{
+    padding-left: 50px;
+    padding-top:50px;
+    float:left;
+    width:45%;
+    text-align: center;
+    height: 531px;
+    height: 100%;
+}
+
+#left p{
+    padding-left: 20px;
+    padding-right: 40px;
+    font-size: 1.2em;
+}
+
+#right{
+    float:right;
+    width:40%;
+}
+
+footer{
+    position: fixed;
+    padding-top:10px;
+    width:100%;
+    position:absolute;
+    bottom:0;
+    background:#000080;
+    color: white;
+    text-align:center;
+    clear:both;
+}
+
+#proTable{
+    padding-left: 100px;
+    text-align:left;
+}
+
+.pro{
+    list-style-type: circle;
+    font-size:1.5em;
+    display:list-item;
+}
+
+
+ul {
+     list-style-type: none;
+}
+
+ul a{
+    color:white;
+    text-decoration: none;
+}
+
+ul a:hover{
+    color: #00ffff;
+    font-size:1.3em;
+}
+ 
+img{
+     padding-top:10px;
+     padding-left:30px;
+     width: 85%;
+     height: 430px;
+     padding-bottom: 20px;
+}
+ 
+#pro{
+     padding-top:25px;
+}
+ 
+#other{
+     padding-top:20px;
+}
+
+dl{
+    padding-left: 100px;
+    text-align:left;
+}
+
+dt{
+    font-size:1.5em;
+    display:list-item;
+}
+
+dd{
+    font-size:1.2em;
+}
+
+#moveleft{
+    text-align:left;
+}
+
+
+ 
