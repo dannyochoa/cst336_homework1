@@ -9,6 +9,7 @@ header{
     text-align: center;
     color:white;
     padding-top:10px;
+    position: fixed;
 }
 
 h1{
@@ -72,6 +73,7 @@ footer{
     color: white;
     text-align:center;
     clear:both;
+    position: fixed;
 }
 
 #proTable{
